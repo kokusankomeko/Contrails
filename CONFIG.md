@@ -44,7 +44,7 @@ My-Feed
 >
 > Set to `false` if you have higher limits via a paid Cloudflare plan.
 
-false
+true
 
 # avatar
 
